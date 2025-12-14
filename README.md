@@ -51,3 +51,9 @@ FILES IN THIS REPOSITORY
 KEY LEARNINGS
 
 * This project helped strengthen skills in Excel-based data analysis, dashboard design, and translating business data into actionable insights.
+
+👤 AUTHOR
+
+Sai Srikar Goranta
+
+Aspiring Data Analyst | SQL | Data Cleaning | Analytics
